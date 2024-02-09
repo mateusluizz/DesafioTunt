@@ -182,4 +182,4 @@ pyrightconfig.json
 .idea
 
 # Google Credentials
-resources/crendential.json
+resources/credentials.json
